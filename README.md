@@ -1,6 +1,6 @@
-### Seja bem-vinde! 👋
+### Seja bem-vindx! 👋
 
-Sou formada em psicologia e comecei a estudar programação em março de 2020! Desde então estudei lógica de programação, HTML5, CSS3 e JavaScript. <br>
+Sou formada em psicologia e comecei a estudar programação de forma autodidata em março de 2020! Desde então venho estudado lógica de programação, HTML5, CSS3 e JavaScript. <br>
 
 Atualmente sou aluna da turma de back-end do {reprograma}. :woman: :computer: <br>
 
