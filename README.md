@@ -4,7 +4,7 @@
 
 - I've a bachelor's degree in Psychology and I started studying programming in March/20. I started studying it on my own and after sometime I joined the Back-End course at [{reprograma}](https://reprograma.com.br/).
 
-- I'm a very active person and on my free time I like to workout on the gym, practice Jiu Jitsu or even meditate. I also volunteer at a Buddhist NGO called Soka Gakkai international and I'm a strong supporter of the LGBTQI+ :rainbow: cause too.
+- I'm a very active person and on my free time I like to workout on the gym, practice Jiu Jitsu or even meditate. I also volunteer at a Buddhist NGO called Soka Gakkai International and I'm a strong supporter of the LGBTQI+ :rainbow: cause too.
 
 #### Languages and Tools
 
