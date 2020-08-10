@@ -5,7 +5,7 @@ I started studying it on my own and after sometime I joined the Back-End course 
 
 - I'm a very active person and on my free time I like to workout on the Gym, practice Jiu Jitsu or even meditate. I also volunteer at a Buddhist NGO called Soka Gakkai international and I'm a strong supporter of the LGBTQL+ cause too.
 
-### Languages and Tools
+#### Languages and Tools
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/768px-Visual_Studio_Code_1.35_icon.svg.png" />
 <img align="left" alt="HTML5" width="26px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_html_icon_130541.png" />
