@@ -1,4 +1,5 @@
 ## Welcome! :raising_hand:
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nathaliacsan&color=ff69b4" alt="lnathaliacsan" /> </p>
 
 #### About me
 
